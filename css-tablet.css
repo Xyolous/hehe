@@ -1,0 +1,17 @@
+@media (min-width: 800px) and (max-width: 1024px) {
+    .header {
+        padding: 20px 40px; /* More padding for larger screens */
+    }
+
+    .site-title {
+        font-size: 25px; /* Larger font size */
+    }
+
+    .menu a {
+        padding: 15px 20px; /* More padding for larger screens */
+    }
+
+    .hero-heading {
+        font-size: 80px; /* Even larger font size */
+    }
+}
